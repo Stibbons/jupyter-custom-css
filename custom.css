@@ -1,0 +1,36 @@
+.reveal p {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  line-height: 1.2em;
+  font-size: 0.6em;
+}
+
+.rise-enabled .prompt {
+  font-size: 0.6em !important;
+}
+
+.rise-enabled .reveal pre {
+  font-size: 0.7em !important;
+  line-height: 1.7em;
+}
+
+.reveal h1 {
+  line-height: 1.8em;
+}
+
+.reveal .rendered_html * + ul {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.reveal li{
+  font-size: 0.6em;
+}
+
+.reveal code{
+  font-size: 0.8em;
+}
+
+.reveal table {
+  font-size: 0.6em;
+}
