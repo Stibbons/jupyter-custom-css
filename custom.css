@@ -2,7 +2,7 @@
   margin-top: 15px;
   margin-bottom: 25px;
   line-height: 1.2em;
-  font-size: 0.6em;
+  font-size: 0.5em;
 }
 
 .rise-enabled .prompt {
@@ -24,7 +24,7 @@
 }
 
 .reveal li{
-  font-size: 0.6em;
+  font-size: 0.5em;
 }
 
 .reveal code{
@@ -33,4 +33,14 @@
 
 .reveal table {
   font-size: 0.6em;
+}
+.rise-enabled .text_cell.rendered .rendered_html table {
+  font-size: 0.5em;
+}
+
+
+.widget-hbox .widget-label {
+  max-width: 600px !important;
+  text-align: left !important;
+  padding-left: 15px !important;
 }
